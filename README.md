@@ -102,6 +102,3 @@
 | PyCharm | PyCharm’s smart code editor provides first-class support for Python, JavaScript, CoffeeScript, TypeScript, CSS, popular template languages and more. Take advantage of language-aware code completion, error detection, and on-the-fly code fixes! |
 
 * ==> Reviews of Atom, Vim, and Visual Studio Code || [<(.)==3](https://stackshare.io/stackups/atom-vs-vim-vs-visual-studio-code#description).
-=======
- 
->>>>>>> ab1c6072d746bc1a0866a1628c86716e4deb8e97
