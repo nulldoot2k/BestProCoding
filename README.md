@@ -1,7 +1,7 @@
 <h1 align='center'>What tools should we use for programming?<h1>
 
 ![alt text](what.png)
-<<<<<<< HEAD
+
 ## Q&A ==> (Question and Answer)
 * For a Visual Studio Code/Atom developer that works mostly with Node.js/TypeScript/Ruby/Go and wants to get rid of graphic-text-editors-IDE-like at once, which one is worthy of investing time to pick up?
 
